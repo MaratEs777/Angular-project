@@ -3,6 +3,7 @@
   padding: 30px 40px;
   display: flex;
   background-color: #fff;
+  margin-bottom: 20px;
 }
 
 .site-slogan {
@@ -16,5 +17,8 @@ h2 {
 }
 
 img{
-  max-height: 300px;
+  position: relative;
+  bottom: 13px;
+  max-height: 200px;
+
 }
