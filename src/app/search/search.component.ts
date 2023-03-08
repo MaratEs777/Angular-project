@@ -13,7 +13,7 @@ export class SearchComponent implements OnInit {
   log() {
     console.log( '=>>>', this.searchValue);
   }
-  searchValue: string = 'Введите значение';
+  searchValue: string = '';
 
   // changeSearchValue(eventData: Event) {
   //   // console.log((<HTMLInputElement>eventData.target).value)
