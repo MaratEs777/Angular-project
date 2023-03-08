@@ -12,7 +12,9 @@ constructor(){}
 ngOnInit():void{
 
 }
-slogan: string = 'You one stop for everything.'
+slogan: string = 'You one stop for everything'
+sourse: string =  'https://img1.akspic.ru/crops/9/6/0/8069/8069-odezhda-shoping-devuska-zhenshhina-ulica-1920x1080.jpg'
+
 getSlogan(){
   return 'This is a new slogan for this web application'
 }

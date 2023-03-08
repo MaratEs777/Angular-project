@@ -13,12 +13,15 @@
 }
 
 h2 {
-  font-size: 45px;
+  font-size: 49px;
+  margin-top: 18px;
 }
 
-img{
+img {
   position: relative;
-  bottom: 13px;
-  max-height: 200px;
+  bottom: 4px;
+  max-height: 226px;
+}
 
+.site-image {
 }
