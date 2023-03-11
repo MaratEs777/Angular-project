@@ -8,6 +8,7 @@
   (filterRadioButtonSelectionChange)="onFilterRadioButtonChange($event)"
 ></app-filter>
 
+<app-category [categoryName]="objCategory()"></app-category>
 <ng-container *ngFor="let p of products">
   <div
     *ngIf="

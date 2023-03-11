@@ -16,6 +16,8 @@ export class FilterComponent implements OnInit {
 
   @Input() allGoods: number = 0;
 
+  
+
   selectRadioButtonValue: string = 'All goods';
 
   @Output()
